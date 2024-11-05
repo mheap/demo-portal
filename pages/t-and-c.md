@@ -6,3 +6,5 @@ published: true
 ---
 
 This is a sample T&C page
+
+And it's updated via GitHub
