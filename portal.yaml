@@ -1,0 +1,51 @@
+portalId: 16591c5f-98ed-48d9-a0f3-edbdb15662e4
+
+menu:
+  header:
+    - title: Home
+      path: /
+    - title: APIs
+      path: /apis
+    - title: Hidden
+      path: /hidden
+      public: false
+
+  footer_bottom:
+    - title: Home
+      path: /
+    - title: APIs
+      path: /apis
+    - title: Hidden
+      path: /hidden
+      public: false
+
+  footer_sections:
+    - title: C1
+      items:
+        - title: One
+          path: /
+          external: false
+          public: true
+        - title: Two
+          path: /
+          external: false
+          public: true
+        - title: Three
+          path: /
+          external: false
+          public: true
+
+    - title: C2
+      items:
+        - title: Four
+          path: /
+          external: false
+          public: true
+        - title: Five
+          path: /
+          external: false
+          public: true
+        - title: Six
+          path: /
+          external: false
+          public: true
